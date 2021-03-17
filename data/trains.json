@@ -4,8 +4,8 @@
 			"name": "Hogwarts Express",
 			"stops": [
 				{
-					"station": "Sycamore",
-					"status": "ON-TIME",
+					"station": "KeyLime",
+					"status": "DELAYED",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
